@@ -7,8 +7,8 @@
   **To reproduce the code, please modify the tool and file paths in the scripts.**
 ## Data & Code
 ### Section 1: Insertion analysis of AAV-SB system (Fig.4)
-  Raw sequencing and processed data are stored in HRA016166.
+  Raw sequencing and processed data are stored in HRA016166. `count1.txt` is the result of RNA-seq quantification calculated by STAR and Featurecounts.
 
 ### Section 2: CRISPR screening for AAV.APR31 receptor (Fig.5)
-Raw sequencing and processed data are stored in HRA016166. `wgs_insertion_bed_bedstat_files` is the result of quantification of insertion calculated by polydus. 
-  `gene_coor_ref` is the reference of genomic features to assess safty of insertion.
+Raw sequencing and processed data are stored in HRA016166. `wgs_insertion_bed_bedstat_files` is the result of WGS insertion sites calculated by polydus. 
+  `gene_coor_ref` is the reference of genomic features to assess the safety of insertion.
