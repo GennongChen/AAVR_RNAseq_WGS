@@ -1,0 +1,25 @@
+
+              number   percent                  feature sample total_number
+features_bed      65  57.52212                notCancer   AV-1          113
+features_bed1     39  34.51327                 notGenes   AV-1          113
+features_bed2     82  72.56637                 notmiRNA   AV-1          113
+features_bed3     47  41.59292               notTSSm50k   AV-1          113
+features_bed4     91  80.53097             notTSSpm5000   AV-1          113
+features_bed5    113 100.00000                   notUCE   AV-1          113
+features_bed6     28  24.77876 SafeHarbors_hg38_CLASSIC   AV-1          113
+              number   percent                  feature sample total_number
+features_bed      47  55.95238                notCancer   AV-2           84
+features_bed1     26  30.95238                 notGenes   AV-2           84
+features_bed2     49  58.33333                 notmiRNA   AV-2           84
+features_bed3     31  36.90476               notTSSm50k   AV-2           84
+features_bed4     63  75.00000             notTSSpm5000   AV-2           84
+features_bed5     84 100.00000                   notUCE   AV-2           84
+features_bed6     16  19.04762 SafeHarbors_hg38_CLASSIC   AV-2           84
+              number   percent                  feature sample total_number
+features_bed      57  44.88189                notCancer   AV-3          127
+features_bed1     39  30.70866                 notGenes   AV-3          127
+features_bed2     81  63.77953                 notmiRNA   AV-3          127
+features_bed3     52  40.94488               notTSSm50k   AV-3          127
+features_bed4     94  74.01575             notTSSpm5000   AV-3          127
+features_bed5    127 100.00000                   notUCE   AV-3          127
+features_bed6     30  23.62205 SafeHarbors_hg38_CLASSIC   AV-3          127
